@@ -59,4 +59,4 @@ python air_quality_scraper.py
 
 ## 라이선스
 
-이 프로젝트는 MIT 라이선스를 따릅니다. 
+이 프로젝트는 Apache Version 2.0 라이선스를 따릅니다. 
